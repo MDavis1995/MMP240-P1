@@ -1,0 +1,117 @@
+body{
+    background-color: #F6BD60;
+}
+
+h1{
+    font-family: futura;
+    color: #84A59D;
+    text-align: center
+}
+
+nav{
+    font-family: futura;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: #F7EDE2;
+}
+
+.intro{
+    text-align: center
+}
+
+p{
+    font-family: futura;
+    color: #F7EDE2;
+}
+
+h2{
+    font-family: futura;
+    color: #84A59D;
+}
+
+u{
+    color: #84A59D;
+}
+
+.iframe{
+    text-align: center;
+    padding: 10px;
+}
+
+.p2{
+    text-align: right
+}
+
+a{
+    font-family: futura;
+}
+
+.l1{
+    text-align: center;
+}
+
+#mov{
+    background-color: #CF5C36;
+    margin: 5px;
+}
+
+footer{
+    bottom: 0;
+    padding-top: 10px;
+}
+
+img{
+    border-radius: 50%;
+    margin: 10px;
+}
+
+.aligncenter{
+    text-align: center;
+}
+
+#hs{
+    border: 10px double #84A59D;
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+}
+
+figure{
+    display: inline-block;
+}
+
+figcaption {
+    position: absolute;
+    font-family: futura;
+    color: #F7EDE2;
+    margin-left: 60px;
+    text-align: center;
+    
+}
+
+.sr{
+    margin-left: 35px;
+}
+
+.rs{
+    margin-left: 60px;
+}
+
+.cap{
+    color: #84A59D;
+    text-align: center;
+}
+
+.mad{
+    color: #84A59D;
+    margin-right: -50px;
+}
+
+.any{
+    color: #84A59D;
+    margin-right: -90px;
+}

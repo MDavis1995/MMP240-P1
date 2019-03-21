@@ -1,0 +1,75 @@
+body{
+    background-color: #F5CAC3;
+}
+
+h1{
+    font-family: futura;
+    color: #F28482;
+    text-align: center
+}
+
+nav{
+    font-family: futura;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: #F7EDE2;
+}
+
+p{
+    font-family: futura;
+    color: #F7EDE2;
+}
+
+.intro{
+    text-align: center
+}
+
+form{
+    font-family: futura;
+    color: #B1B695;
+    text-align: center;
+    line-height: 3;
+    font-size: 16px
+}
+
+input{
+    font-size: 12px;
+}
+
+.textbox{
+    text-align: center;
+}
+
+textarea{
+    width: 400px;
+    height: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 10px #F28482 double;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+}
+
+#city{
+    width: 90px;
+}
+
+#zip{
+    width: 45px;
+}
+
+#state{
+    width: 25px;
+}
+
+.textsub{
+    text-align: center;
+}

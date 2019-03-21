@@ -1,0 +1,37 @@
+body{
+    background-color: #84A59D;
+}
+
+h1{
+    font-family: futura;
+    color: #F6BD60;
+    text-align: center;
+    cursor: pointer;
+}
+
+nav{
+    font-family: futura;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    padding: 10px;
+    color: #F7EDE2;
+}
+
+h2{
+    font-family: futura;
+    color: #F6BD60;
+}
+
+p{
+    font-family: futura;
+    color: #F7EDE2;
+    line-height: 2;
+}
+
+footer{
+    position: absolute;
+    bottom: 0;
+}
